@@ -1,4 +1,4 @@
-PR: https://github.com/batoolmalkawii/django-custom-user/pull/1
+PR: https://github.com/batoolmalkawii/django-custom-user/pull/2
 
 
 In this project, the following features were implemented:

@@ -6,6 +6,7 @@ from .forms import CustomUserCreationForm
 
 # Create your views here.
 
+#SignUpView
 class SignUpView(CreateView):
     form_class = CustomUserCreationForm
     success_url = reverse_lazy('login')
